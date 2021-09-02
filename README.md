@@ -1,1 +1,1 @@
-# UW_FinTech_Module_3
+# UW_FinTech_Challenge_3
