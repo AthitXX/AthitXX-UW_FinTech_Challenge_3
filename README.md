@@ -4,6 +4,8 @@ A Bitcoin arbitrage application that compares the price of Bitcoin on 2 popular 
 To clone the repository and necessary files, run "git clone git@github.com:AthitXX/AthitXX-UW_FinTech_Challenge_3.git"
 
 AthitXX-UW_FinTech_Challenge_3/Resources contains the coinbase.csv as well as the bitstamp.csv price data files
+![bitstamp_df](./screenshots/B5F16249-4B60-44C8-BE1E-511F64BDDF0D.jpeg)
+![coinbase_df](./screenshots/E1699D10-4ACA-47A6-A9BE-DEC0355AC06C.jpeg)
 
 AthitXX-UW_FinTech_Challenge_3 contains the crypto_arbitrage jupyter notebook that contains the application code.
 
